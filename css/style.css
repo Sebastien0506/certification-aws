@@ -1,0 +1,10 @@
+body {
+    background-color: antiquewhite;
+}
+.warning {
+    border: 2px solid red;
+    width: 20%;
+    border-radius: 5%;
+    margin-top: 2%;
+    margin-left: 2%;
+}
